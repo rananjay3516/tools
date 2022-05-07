@@ -1,3 +1,3 @@
 # tools
 
-python based windows automation tools
+windows 10 automation tools
